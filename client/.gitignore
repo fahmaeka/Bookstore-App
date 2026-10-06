@@ -1,0 +1,24 @@
+# Go build artifacts
+/bin/
+*.exe
+*.exe~
+*.test
+*.out
+*last_run
+*.so
+*.dll
+*.dylib
+
+# Dependency directories
+/node_modules/
+
+# Build output
+/dist/
+
+# IDE / editor cache
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db
